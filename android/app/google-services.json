@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "824901745383",
+    "firebase_url": "https://ynov-firebase-auth.firebaseio.com",
+    "project_id": "ynov-firebase-auth",
+    "storage_bucket": "ynov-firebase-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824901745383:android:ade5cb2890280ad8",
+        "android_client_info": {
+          "package_name": "com.gotoforever.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824901745383-ch1nlanf4g07ad5re3lcjoue1dh81tg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4j6gKz8yHs2jGXGDCNuvThVmjXCGZInk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824901745383-ch1nlanf4g07ad5re3lcjoue1dh81tg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
